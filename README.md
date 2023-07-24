@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phasawee Suppakarn
-- 👀 I’m interested in Embedded Controller, Electronic, and Aerospace. 
-- 🌱 I’m currently learning Everythings on Earth.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Embedded Controllers, Electronic, and Aerospace. 
+- 🌱 I’m currently learning Everything on Earth.
+- 💞️ I’m looking to collaborate on Everybody.
 - 📫 How to reach me ([LinkedIn](https://www.linkedin.com/in/phasawees/))
 
 <!---
